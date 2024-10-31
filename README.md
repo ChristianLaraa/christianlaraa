@@ -1,9 +1,9 @@
 # 👋 Holaa, Soy Christian Lara.
-<p>Estudiante, Ingeniería en Computación - UNAM </p><br>
-💡 - Me apasiona aprender y explorar todo sobre tecnología y programación.<br><br>💻 - Estoy interesado en Tecnologías de Frontend, Backend, IA y Ciberseguridad.<br><br>🎨 - He participado en proyectos de Marketing y Diseño Gráfico.<br><br>🙋‍♂️ - Soy una persona versatil, me adapto a entornos sociales y técnicos.<br><br>
+** Estudiante, Ingeniería en Computación - UNAM ** <br>
+##💡 - Me apasiona aprender y explorar todo sobre tecnología y programación.<br><br>💻 - Estoy interesado en Tecnologías de Frontend, Backend, IA y Ciberseguridad.<br><br>🎨 - He participado en proyectos de Marketing y Diseño Gráfico.<br><br>🙋‍♂️ - Soy una persona versatil, me adapto a entornos sociales y técnicos.<br><br>
 
 
-## 🌐 Socials:
+# 🌐 Connect with me!
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/christian.laraa_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-gael-lara-martinez-1252251bb/) 
 
 # 💻 Tech Stack:
