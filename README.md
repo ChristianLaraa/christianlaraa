@@ -1,5 +1,5 @@
-# Holaa, Soy Christian Lara:
-Estudiante, Ingeniería en Computación - UNAM <br>💡 Me apasiona aprender y explorar todo sobre tecnología y programación.<br>💻 Estoy interesado en Tecnologías de Frontend, Backend, IA y Ciberseguridad.<br>🎨  He participado en proyectos de Marketing y Diseño Gráfico.<br>🙋‍♂️ Soy una persona versatil, me adapto a entornos sociales y técnicos.<br>
+# 👋 Holaa, Soy Christian Lara.
+<p>Estudiante, Ingeniería en Computación - UNAM </p><br><br> 💡 Me apasiona aprender y explorar todo sobre tecnología y programación.<br><br>💻 Estoy interesado en Tecnologías de Frontend, Backend, IA y Ciberseguridad.<br><br>🎨  He participado en proyectos de Marketing y Diseño Gráfico.<br><br>🙋‍♂️ Soy una persona versatil, me adapto a entornos sociales y técnicos.<br><br>
 
 
 ## 🌐 Socials:
@@ -15,4 +15,3 @@ Estudiante, Ingeniería en Computación - UNAM <br>💡 Me apasiona aprender y e
 ---
 [![](https://visitcount.itsvg.in/api?id=ChristianLaraa&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
